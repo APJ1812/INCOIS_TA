@@ -2,7 +2,7 @@
 # Joshi, A. P., Ghoshal, P. K., Chakraborty, K., Roy, R., Jayaram, C., Sridevi, B., & Sarma, V. V. S. S. (2025). Long‐term changes of surface total alkalinity and its driving mechanisms in the north Indian Ocean. Global Biogeochemical Cycles, 39(8), e2024GB008344.
 
 ## Creators
-### Prasanna Kanti Ghoshal (P. K. Ghoshal) and Dr Apurva Padamnabh Joshi (A. P. Joshi)
+###  Dr Apurva Padamnabh Joshi (A. P. Joshi) and Prasanna Kanti Ghoshal (P. K. Ghoshal)
 
 This repository contains the machine learning workflow used for the reconstruction of surface **Total Alkalinity (TA)** in the Indian Ocean using an ensemble of **XGBoost** models.
 
